@@ -1,0 +1,14 @@
+{
+  "name": "karthik-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio of Karthik Periyakarupphan M - Robotics & AI Engineer",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "dev": "live-server --port=3000"
+  },
+  "keywords": ["portfolio", "robotics", "ai", "machine-learning"],
+  "author": "Karthik Periyakarupphan M",
+  "license": "MIT",
+  "homepage": "https://karthikperi254.github.io/karthik-portfolio"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karthikperi254.github.io/karthik-portfolio/sitemap.xml
